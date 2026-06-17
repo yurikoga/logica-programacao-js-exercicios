@@ -18,6 +18,19 @@ Ao longo do desenvolvimento destes exercícios, foram explorados e assimilados o
 
 O repositório está subdividido em listas estruturadas por objetivos de complexidade progressiva:
 
+### 🔹 Lista 01
+*   **01. Nome Completo:** Solicita nome e sobrenome, exibindo a junção formatada.
+*   **02. Frase Personalizada:** Mensagem customizada com o nome e a cor favorita informada pelo usuário.
+*   **03 & 04. Antecessor e Sucessor:** Leitura de um número e exibição de seu respectivo vizinho numérico.
+*   **05, 06, 07 & 08. Operações Básicas:** Algoritmos individuais para calcular a soma, divisão, multiplicação e subtração entre valores.
+*   **09 & 10. Dobro e Metade:** Cálculos matemáticos simples aplicados sobre um número informado.
+*   **11 & 12. Conversões Cambiais:** Conversão de moedas (Dólar para Real e Real para Dólar) utilizando taxa de câmbio fixa.
+*   **13. Troca de Valores:** Algoritmo para inverter os valores armazenados em duas variáveis.
+*   **14, 15 & 19. Cálculo de Áreas:** Aplicação de fórmulas geométricas para calcular a área do Quadrado, Retângulo e Triângulo.
+*   **16. Tabuada:** Geração automática da tabuada de 1 a 10 para qualquer número fornecido.
+*   **17. Média Simples:** Cálculo da média aritmética com base em 4 valores numéricos.
+*   **18. Salário com Bônus:** Soma e cálculo do rendimento total considerando valores fixos e adicionais de bônus.
+
 ### 🔹 Lista 02 — Formatação e Manipulação de Dados
 * **Exercício 1:** Formatação de valores numéricos brutos para o padrão de moeda Real (R$).
 * **Exercício 2 & 3:** Conversão integral de strings informadas para caixa alta (Maiúsculas) e caixa baixa (Minúsculas).
@@ -38,22 +51,6 @@ O repositório está subdividido em listas estruturadas por objetivos de complex
 * **Exercício 16:** Sistema internacional de validação de maioridade legal simultânea para regiões distintas (Brasil vs. EUA).
 * **Exercício 18:** Analisador de case para distinção nativa de caracteres em caixa alta ou baixa.
 * **Exercício 20:** Classificador econômico mercadológico de preços para categorização de produtos.
-
-### 🔹 Lista 04 — Lógica Sequencial Avançada e Fórmulas
-* **Exercício 1:** Algoritmo comercial com precificação dinâmica por lotes de compra (Preço por unidade vs. Preço por dúzia de produtos).
-* **Exercício 2:** Varredura lógica para determinação de maior valor dentre três entradas numéricas distintas.
-* **Exercício 3:** Condicional para disparo de margens de desconto em compras com metas mínimas estabelecidas.
-* **Exercício 4:** Termômetro analítico com gatilhos textuais associados ao nível térmico.
-* **Exercício 5:** Verificador situacional de direitos políticos e obrigatoriedade do voto eleitoral por idade.
-* **Exercício 6 & 7:** Tabelas de pontuações de conceitos acadêmicos e validação do tipo ideal de ingressos de eventos.
-* **Exercício 8 & 9:** Conversores avançados bidirecionais entre escalas termométricas.
-* **Exercício 10:** Cálculo automatizado de vetores de locomoção e distâncias percorridas a partir de variáveis de tempo e velocidade informadas.
-
-### 🔹 Lista 05 — Funções, Parâmetros e Interfaces Web (DOM)
-* **Manipulação do DOM (1 a 3):** Eventos para alteração de cabeçalhos dinâmicos, inclusão programática de novos itens de lista e criação de gatilhos visuais para ocultar/exibir dados na tela.
-* **Trabalho com Funções e Parâmetros (1 a 3):** Funções estruturadas para rotinas repetitivas de alertas, calculadoras exponenciais quadradas, rotinas cambiais fixadas, saídas personalizadas em parágrafos HTML e formatadores de textos integrados.
-* **Interações com innerText e innerHTML (1 a 3):** Inserção dinâmica em tempo de execução de inputs de texto direto em elementos de tela, estilização forçada em strings através de tags de marcação interna e o desenvolvimento de uma aplicação de Lista de Tarefas (To-Do List) totalmente operacional.
-* **Escopos e Comportamento Prático (1 & 2):** Fixação de boas práticas sobre o uso e ciclo de vida de declarações de variáveis com `var`, `let` e `const`, além do controle dinâmico de classes de visibilidade visual.
 
 ---
 
